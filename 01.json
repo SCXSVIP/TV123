@@ -220,10 +220,10 @@
       "quickSearch": 0
     },
     {
-      "key": "api.maozyapi.com",
-      "name": "成人32",
+      "key": "麻豆",
+      "name": "🔞麻豆|采集|cdn2020",
       "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "api": "https://www.md91.cc/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
